@@ -16,14 +16,14 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 ## Features
 ![Screenshot (1125)](https://github.com/user-attachments/assets/8ff85bfc-7b59-49ae-9d88-d3a8aacc2828)
 
-*### Preimum Accessories*
+### *Preimum Accessories*
 ![Screenshot (1168)](https://github.com/user-attachments/assets/7d9f247a-b921-4d9f-b481-bc4bc4da5e61)
 
-*### Free Delivery*
+### *Free Delivery*
 ![Screenshot (1169)](https://github.com/user-attachments/assets/a83207f5-2b8e-435c-83ad-64eabefbbfe2)
 ![Screenshot (1125)](https://github.com/user-attachments/assets/2d775b16-c475-43b8-aee8-fade515a627e)
 
-*### Easy Payments*
+### *Easy Payments*
 ![Screenshot (1171)](https://github.com/user-attachments/assets/2a454620-7daa-4c9d-9a67-8e8ff261039e)
 ![Screenshot (1172)](https://github.com/user-attachments/assets/cf91d131-2ca7-48e7-8be6-41af39057b90)
 
@@ -37,15 +37,15 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 ![Screenshot (1132)](https://github.com/user-attachments/assets/a66b8159-818c-42a5-a924-667210752199)
 ![Screenshot (1133)](https://github.com/user-attachments/assets/6abc5fba-9c03-4a62-a3ba-76944752a3ab)
 
-*### Bracelets*
+### *Bracelets*
 ![Screenshot (1136)](https://github.com/user-attachments/assets/03e99492-a6d8-4377-8315-9857f9241ade)
 ![Screenshot (1137)](https://github.com/user-attachments/assets/7109963b-27b6-4981-9f04-b5688cf9c66b)
 
-*### Earrngs*
+### *Earrngs*
 ![Screenshot (1138)](https://github.com/user-attachments/assets/99371a26-c384-4ae3-98ff-a3a8af93d8b4)
 ![Screenshot (1139)](https://github.com/user-attachments/assets/af4956a7-1991-400d-b61e-343d322d867a)
 
-*### Rings*
+### *Rings*
 ![Screenshot (1140)](https://github.com/user-attachments/assets/e674c504-b9c3-429f-aafc-70c0c1bd2b6c)
 ![Screenshot (1141)](https://github.com/user-attachments/assets/0e37a08e-827d-4382-9a3e-e03be91d7004)
 
