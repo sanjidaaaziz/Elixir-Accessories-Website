@@ -9,7 +9,7 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 ## Login Page 
 ![Screenshot (1122)](https://github.com/user-attachments/assets/a910984f-849a-465d-b8c0-1860ef9bed35)
 
-**# USER DEMO**
+# **USER DEMO**
 ## Home Page
 ![Screenshot (1123)](https://github.com/user-attachments/assets/285653a8-02d3-4d6e-b240-577d940b6da9)
 
