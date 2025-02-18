@@ -55,7 +55,7 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 
 ![Screenshot (1141)](https://github.com/user-attachments/assets/0e37a08e-827d-4382-9a3e-e03be91d7004)
 
-## Customer's Review
+## Reviews
 ![Screenshot (1130)](https://github.com/user-attachments/assets/8205b2e5-5f7d-47c6-b72a-e9a39b791b2f)
 
 ### *Write a Review Section*
@@ -78,6 +78,25 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 ![Screenshot (1147)](https://github.com/user-attachments/assets/8131cd20-9f1d-4a35-9b3d-d935a467a0d2)
 
 # **ADMIN DEMO**
+## Dashboard
+![Screenshot (1153)](https://github.com/user-attachments/assets/4585300b-46b9-46e5-8f45-b3beb44d9971)
+
+## Add Products
+![Screenshot (1155)](https://github.com/user-attachments/assets/0219194a-43cb-4a7b-a3cb-d60aebc3aabd)
+
+## Available Products
+![Screenshot (1156)](https://github.com/user-attachments/assets/60e513d0-4c5b-4f8c-bdde-0d7a4244e305)
+
+## Placed Orders
+![Screenshot (1164)](https://github.com/user-attachments/assets/8faaa459-5d3e-4a7f-91b0-8e85efff430b)
+
+![Screenshot (1165)](https://github.com/user-attachments/assets/962ebb8a-cbbe-45dc-9b49-aac0522c5e17)
+
+## Registered Users
+![Screenshot (1166)](https://github.com/user-attachments/assets/91abdbd4-172a-419e-8bbc-3492beb3e9d2)
+
+## Customer's Review
+![Screenshot (1174)](https://github.com/user-attachments/assets/1d6bda0a-3d95-4838-a6bd-31825eedfb2c)
 
 
 
