@@ -22,7 +22,7 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 ### *Free Delivery*
 ![Screenshot (1169)](https://github.com/user-attachments/assets/a83207f5-2b8e-435c-83ad-64eabefbbfe2)
 
-![Screenshot (1125)](https://github.com/user-attachments/assets/2d775b16-c475-43b8-aee8-fade515a627e)
+![Screenshot (1170)](https://github.com/user-attachments/assets/a1150278-deb8-4e5f-ae90-8747deefbd06)
 
 ### *Easy Payments*
 ![Screenshot (1171)](https://github.com/user-attachments/assets/2a454620-7daa-4c9d-9a67-8e8ff261039e)
@@ -45,7 +45,7 @@ Elixir Accessories is a fully responsive website designed to provide an intuitiv
 
 ![Screenshot (1137)](https://github.com/user-attachments/assets/7109963b-27b6-4981-9f04-b5688cf9c66b)
 
-## *Earrngs*
+## *Earrings*
 ![Screenshot (1138)](https://github.com/user-attachments/assets/99371a26-c384-4ae3-98ff-a3a8af93d8b4)
 
 ![Screenshot (1139)](https://github.com/user-attachments/assets/af4956a7-1991-400d-b61e-343d322d867a)
